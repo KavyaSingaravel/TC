@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.triplecheck.trio</groupId>
+  <artifactId>BleakCheck</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181010185035</lastUpdated>
+  </versioning>
+</metadata>
